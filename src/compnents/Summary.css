@@ -1,0 +1,29 @@
+.CardClass img {
+    width: 100%;
+}
+.upDownSection div {
+    padding: 10px;
+}
+.upDownSection {
+    display: flex;
+    align-items: center;
+  
+}
+
+.Remove-button {
+    background-color: #000;
+    border: 1px solid #000;
+    color: #fff;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+
+.Remove-button:hover {
+    background-color: initial;
+    border: 1px solid #000!important;
+    color: #000;
+    cursor: pointer;
+    transition: all .6s;
+}
+

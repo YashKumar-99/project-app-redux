@@ -1,0 +1,17 @@
+.Cart-button {
+    position: relative;
+}
+.Cart-button span {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: blueviolet;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    transform: translate(10px, -10px);
+}
